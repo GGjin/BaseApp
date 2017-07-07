@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+
+
+    <string name="crop_pick_error">无可用图片</string>
+    <string name="crop__saving">载入中…</string>
+    <string name="crop__wait">请等待…</string>
+
+    <string name="crop__control">管理</string>
+    <string name="crop__done">完成</string>
+    <string name="crop__cancel">取消</string>
+    <string name="sdcard_not_connected">SD卡未连接</string>
+    <string name="latest_image">最近照片</string>
+    <string name="select_album">选择相册</string>
+    <string name="photo_album">相册</string>
+    <string name="confirm">确定</string>
+    <string name="no_photo_chosen">没有图片被选中</string>
+    <string name="hint">提示</string>
+    <string name="delete_pic_hint">确定要删除这张照片吗？</string>
+    <string name="login_download_pic">请登录后使用下载图片功能</string>
+    <string name="save_image_success">图片保存成功</string>
+    <string name="net_work_error">网络出现问题</string>
+    <string name="chosen_photo_invalid">所选照片无效，请检查或重新选择</string>
+    <string name="help">帮助</string>
+    <string name="settings">设置</string>
+    <string name="quit">退出</string>
+    <string name="string_help_text">当前应用缺少必要权限。\n请点击"设置"-"权限"打开所需权限。\n最后点击两次后退按钮，即可返回。</string>
+    <string name="loading">加载中...</string>
+    <string name="submitting">提交中…</string>
+    <string name="operation_success">操作成功</string>
+    <string name="network_error">似乎已断开与互联网的链接</string>
+    <string name="picture_option">图片选项</string>
+    <string name="cancel">取消</string>
+
+</resources>

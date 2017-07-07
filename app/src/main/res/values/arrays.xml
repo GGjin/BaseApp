@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="main_tilte">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+
+    <array name="others_photo_options">
+        <item>保存到手机</item>
+        <item>举报</item>
+    </array>
+
+    <array name="my_photo_options">
+        <item>保存到手机</item>
+        <item>删除</item>
+    </array>
+
+    <string-array name="pic_options" tools:ignore="MissingTranslation">
+        <item>保存图片</item>
+    </string-array>
+
+    <array name="get_picture_choice_array">
+        <item>拍摄图片</item>
+        <item>选择图片</item>
+    </array>
+
+    <array name="user_gender">
+        <item>男</item>
+        <item>女</item>
+    </array>
+</resources>

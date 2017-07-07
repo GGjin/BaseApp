@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fl_theme" />
+    <attr name="fl_size" />
+    <declare-styleable name="fl_FlatSeekBar">
+        <attr name="fl_theme" />
+        <attr name="fl_size" />
+    </declare-styleable>
+    <!-- Flat Toggle Button -->
+    <attr name="fl_cornerRadius" />
+    <attr name="fl_space" format="dimension" />
+    <declare-styleable name="fl_FlatToggleButton">
+        <attr name="fl_theme" />
+        <attr name="fl_cornerRadius" />
+        <attr name="fl_space" />
+    </declare-styleable>
+
+    <attr name="cropImageStyle" format="reference" />
+
+    <declare-styleable name="CropImageView">
+        <attr name="highlightColor" format="reference|color" />
+        <attr name="showThirds" format="boolean" />
+        <attr name="showHandles">
+            <enum name="changing" value="0" />
+            <enum name="always" value="1" />
+            <enum name="never" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
